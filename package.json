@@ -70,7 +70,7 @@
     "data-uri-to-buffer": "0.0.4",
     "debug": "^2.1.1",
     "defaults": "~1.0.0",
-    "node-phantom-simple": "https://github.com/caleboleary/node-phantom-simple"
+    "node-phantom-simple": "https://github.com/caleboleary/node-phantom-simple/tarball/master"
   },
   "description": "Run PhantomJS from Node",
   "devDependencies": {
